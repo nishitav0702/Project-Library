@@ -141,7 +141,7 @@ int main() {
     int option;
 
     while (true) {
-        cout << "\nPersonal Library Management System\n";
+        cout << "\nPersonal Library Management System\nEnter your choice!\n";
         cout << "1. Add Book\n2. Show Owned Books\n3. Show Read Books\n4. Show TBR List\n5. Exit\n";
         cout << "Enter choice: ";
         cin >> option;
